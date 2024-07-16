@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 473a48b6c27fe8f4f92f9df3a1c02a6b, type: 3}
+  m_Name: Rose
+  m_EditorClassIdentifier: 
+  title: Rose
+  growthPeriod: 0
+  tileBase: {fileID: 11400000, guid: 7ac725239335c944ab010febcac38db6, type: 2}
+  minBeePollination: 5
+  maxBeePollination: 10
+  isBeePollinated: 1
+  minBirdPollination: 0
+  maxBirdPollination: 0
+  isBirdPollinated: 0
+  minBatPollination: 0
+  maxBatPollination: 0
+  isBatPollinated: 0
+  minButterflyPollination: 0
+  maxButterflyPollination: 0
+  isButterflyPollinated: 0
+  minLilGuyPollination: 0
+  maxLilGuyPollination: 0
+  isLilGuyPollinated: 0
